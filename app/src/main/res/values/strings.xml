@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NpmViewer</string>
+    <string name="search_alert">Hello, World!</string>
+</resources>
